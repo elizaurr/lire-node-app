@@ -1,1 +1,1 @@
-# lire-node-app
+# liri-node-app
