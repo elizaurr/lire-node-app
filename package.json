@@ -1,0 +1,29 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "better than siri",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizaurr/lire-node-app.git"
+  },
+  "keywords": [
+    "spotify",
+    "twitter",
+    "request"
+  ],
+  "author": "elizaur reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizaurr/lire-node-app/issues"
+  },
+  "homepage": "https://github.com/elizaurr/lire-node-app#readme",
+  "dependencies": {
+    "request": "^2.72.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.3.0"
+  }
+}
