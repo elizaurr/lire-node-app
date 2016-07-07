@@ -22,26 +22,25 @@ for (var i = 2; i < process.argv.length; i++) {
 }
 
 //grabs the twitter keys from keys.js
-var client = new Twitter({
-  consumer_key: keys.twitterKeys.consumer_key,
-  consumer_secret: keys.twitterKeys.consumer_secret,
-  access_token_key: keys.twitterKeys.access_token_key,
-  access_token_secret: keys.twitterKeys.access_token_secret
-
-});
+var client = new Twitter(keys.twitterKeys);
 
 //this will log my 20 tweets into the console and post into log
 var showTweets = function() {
+  console.log(keys.twitterKeys)
+  console.log('hello');
   var params = {
     screen_name: 'eli_rey1220'
   };
   client.get('statuses/user_timeline', params, function(error, tweets, response) {
+      // console.log(response);
+      console.log(tweets);
     if (!error) {
-      console.log(" ");
+      console.log(error);
+    }
 
       for (var i = 0; i < 20; i++) {
         console.log(" ");
-        console.log("===== Tweet " + (i + 1) + "=====");
+        // console.log("===== Tweet " + (i + 1) + "=====");
         console.log(tweets[i].text);
         console.log(tweets[i].created_at);
 
@@ -55,10 +54,9 @@ var showTweets = function() {
       fs.appendFileSync('log.txt', '\n', 'utf8', function(err) {
         if (err) throw err;
       })
-    }
+    })
 
-  });
-}
+  };
 
 //this will use spotify to search for songs and then add them to the log
 var spotifyInfo = function(userSong) {

@@ -1,72 +1,209 @@
-===== New Command Wed Jul 06 2016 20:20:34 GMT-0400 (EDT) =====
-user Input: Twitter===== New Command Thu Jul 07 2016 15:27:54 GMT-0400 (EDT) =====
-user Input: ===== New Command Thu Jul 07 2016 15:33:41 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 15:36:43 GMT-0400 (EDT) =====
-user Input: spotify-this-songonedance===== New Command Thu Jul 07 2016 15:40:39 GMT-0400 (EDT) =====
-user Input: spotify-this-songone dance===== New Command Thu Jul 07 2016 15:42:25 GMT-0400 (EDT) =====
-user Input: spotify-this-songone dance===== New Command Thu Jul 07 2016 15:43:12 GMT-0400 (EDT) =====
-user Input: spotify-this-songone dance
-Song: One Dance
-Album: Views
-Artist(s): Drake,Wiz Kid,KylaPreview URL: https://p.scdn.co/mp3-preview/91cee70af91d01d6c358497a964a27add7a2fb69
-
-===== New Command Thu Jul 07 2016 15:44:26 GMT-0400 (EDT) =====
-user Input: movie-thispearl harbor
-Title: Pearl Harbor
-Year: 2001
-IMDB Rating: 6.0
-Country: USA
-Language: English, Japanese, French
-Plot: Pearl Harbor follows the story of two best friends, Rafe and Danny, and their love lives as they go off to join the war.
-Actors: Ben Affleck, Josh Hartnett, Kate Beckinsale, William Lee Scott
-Rotten Tomatoes Rating: 4.5
-Rotten Tomatoes URL: http://www.rottentomatoes.com/m/1108389-pearl_harbor/
-
-===== New Command Thu Jul 07 2016 15:44:57 GMT-0400 (EDT) =====
-user Input: do-what-it-says===== New Command Thu Jul 07 2016 15:45:49 GMT-0400 (EDT) =====
-user Input: do-what-it-says===== New Command Thu Jul 07 2016 15:48:14 GMT-0400 (EDT) =====
-user Input: do-what-it-says===== New Command Thu Jul 07 2016 15:49:02 GMT-0400 (EDT) =====
-user Input: do-what-it-says
-Song: I Want It That Way
-Album: The Hits--Chapter One
-Artist(s): Backstreet BoysPreview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-
-===== New Command Thu Jul 07 2016 15:51:39 GMT-0400 (EDT) =====
-user Input: do-what-it-says
-Song: I Want It That Way
-Album: The Hits--Chapter One
-Artist(s): Backstreet BoysPreview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-
-===== New Command Thu Jul 07 2016 15:52:06 GMT-0400 (EDT) =====
-user Input: my-tweetselizaurr1220===== New Command Thu Jul 07 2016 15:52:36 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 15:58:58 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 16:00:49 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 16:01:31 GMT-0400 (EDT) =====
-user Input: eli_rey1220
-Unrecongnized Command...
-
-===== New Command Thu Jul 07 2016 16:01:36 GMT-0400 (EDT) =====
-user Input: eli_rey1220
-Unrecongnized Command...
-
-===== New Command Thu Jul 07 2016 16:01:46 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 16:07:07 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 16:10:17 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 16:11:50 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 16:14:45 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 16:23:38 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 16:33:58 GMT-0400 (EDT) =====
-user Input: my-tweets===== New Command Thu Jul 07 2016 16:40:50 GMT-0400 (EDT) =====
-user Input: spotify-this-songi got the keys
-Song: If I Ain't Got You
-Album: The Diary Of Alicia Keys
-Artist(s): Alicia KeysPreview URL: https://p.scdn.co/mp3-preview/7c91c6dc291142a9a489eb9be0a261b489028933
-
-===== New Command Thu Jul 07 2016 16:41:15 GMT-0400 (EDT) =====
-user Input: spotify-this-songwithout me
-Song: Without Me
-Album: The Eminem Show (Explicit Version)
-Artist(s): EminemPreview URL: https://p.scdn.co/mp3-preview/c2b67567f040b2c924aed143ba21748b7ce092f6
-
-===== New Command Thu Jul 07 2016 16:44:01 GMT-0400 (EDT) =====
+===== New Command Thu Jul 07 2016 18:26:11 GMT-0400 (EDT) =====
 user Input: my-tweets
+Tweet 1 Just posted a photo https://t.co/EN1e0XgeCI Just posted a photo https://t.co/EN1e0XgeCI Thu Jul 07 16:03:20 +0000 2016
+
+Tweet 2 Having a Spanish families #growinguphispanic https://t.co/RqWlqMa2Ue Having a Spanish families #growinguphispanic https://t.co/RqWlqMa2Ue Thu Jul 07 14:16:13 +0000 2016
+
+Tweet 3 Wade to the Bulls ummm interesting but I think they need more offense cuz it's just him and jimmy butler Wade to the Bulls ummm interesting but I think they need more offense cuz it's just him and jimmy butler Thu Jul 07 14:06:05 +0000 2016
+
+Tweet 4 The Only thing I do remember https://t.co/1sM430XA1H The Only thing I do remember https://t.co/1sM430XA1H Wed Jul 06 03:37:56 +0000 2016
+
+Tweet 5 RT @miakhalifa: Playing as the Warriors in 2k is now the equivalent of sleeping with your homies girl. Do it and you'll catch these hands. RT @miakhalifa: Playing as the Warriors in 2k is now the equivalent of sleeping with your homies girl. Do it and you'll catch these hands. Tue Jul 05 00:58:28 +0000 2016
+
+Tweet 6 My lakers  https://t.co/D1JmFejD2t My lakers  https://t.co/D1JmFejD2t Mon Jul 04 17:21:08 +0000 2016
+
+Tweet 7 Lol  https://t.co/y1M5JplHNg Lol  https://t.co/y1M5JplHNg Mon Jul 04 17:06:48 +0000 2016
+
+Tweet 8 Lmao  https://t.co/12ncfSNJFy Lmao  https://t.co/12ncfSNJFy Mon Jul 04 16:32:41 +0000 2016
+
+Tweet 9 RT @teamdaye: My Favorite Player Of All Time Retired At The Right Time. S/O To Kobe. Last Of A Dead Breed RT @teamdaye: My Favorite Player Of All Time Retired At The Right Time. S/O To Kobe. Last Of A Dead Breed Mon Jul 04 16:28:02 +0000 2016
+
+Tweet 10 Kevin Durant to the golden state really #NBAFreeAgency Kevin Durant to the golden state really #NBAFreeAgency Mon Jul 04 15:45:39 +0000 2016
+
+Tweet 11 RT @Babedipule: A lot of things that I thought were important to me back then are useless #honestyhour RT @Babedipule: A lot of things that I thought were important to me back then are useless #honestyhour Mon Jul 04 12:10:22 +0000 2016
+
+Tweet 12 RT @GLAMGiRL2K: I need sleep 😴😰😱 RT @GLAMGiRL2K: I need sleep 😴😰😱 Mon Jul 04 11:51:06 +0000 2016
+
+Tweet 13 It should be illegal to make someone work on any holiday who can I talk to about this It should be illegal to make someone work on any holiday who can I talk to about this Mon Jul 04 11:08:18 +0000 2016
+
+Tweet 14 I would be the one to buy a shirt and lose it the next day I would be the one to buy a shirt and lose it the next day Mon Jul 04 06:54:02 +0000 2016
+
+Tweet 15 You gotta risk it to get the biscuit You gotta risk it to get the biscuit Sun Jul 03 03:50:32 +0000 2016
+
+Tweet 16 Sitting in class #Rutgers wish I was at the beach Sitting in class #Rutgers wish I was at the beach Sat Jul 02 17:02:42 +0000 2016
+
+Tweet 17 RT @RedSox: #BigPapi passes Teddy Ballgame &amp; collects his 2000th hit with the #RedSox in one swing. https://t.co/L3YH6WFDHY https://t.co/k4… RT @RedSox: #BigPapi passes Teddy Ballgame &amp; collects his 2000th hit with the #RedSox in one swing. https://t.co/L3YH6WFDHY https://t.co/k4… Sat Jul 02 01:27:01 +0000 2016
+
+Tweet 18 RT @SportsNation: Eyeing that holiday weekend 🇺🇸👀 https://t.co/U6aC5XjNiM RT @SportsNation: Eyeing that holiday weekend 🇺🇸👀 https://t.co/U6aC5XjNiM Fri Jul 01 21:46:21 +0000 2016
+
+Tweet 19 @pdashpumper beyond crazy @pdashpumper beyond crazy Fri Jul 01 20:46:50 +0000 2016
+
+Tweet 20 @pdashpumper but we will see how the rest of the free agency goes @pdashpumper but we will see how the rest of the free agency goes Fri Jul 01 20:41:26 +0000 2016
+
+===== New Command Thu Jul 07 2016 18:28:03 GMT-0400 (EDT) =====
+user Input: spotify-this-songsimple man
+Song: Simple Man
+Album: The Essential Lynyrd Skynyrd
+Artist(s): Lynyrd SkynyrdPreview URL: https://p.scdn.co/mp3-preview/9eaefcce9311277a365d23a49955a86d55c0f1ff
+
+===== New Command Thu Jul 07 2016 18:28:29 GMT-0400 (EDT) =====
+user Input: spotify-this-songi believe i can fly
+Song: I Believe I Can Fly
+Album: R.
+Artist(s): R. KellyPreview URL: https://p.scdn.co/mp3-preview/b4beabd21b59237f28db3bc8bdcc1910801d45e4
+
+===== New Command Thu Jul 07 2016 18:28:42 GMT-0400 (EDT) =====
+user Input: spotify-this-songbeat it
+Song: Let It Be - Remastered
+Album: Let It Be (Remastered)
+Artist(s): The BeatlesPreview URL: https://p.scdn.co/mp3-preview/f7913ebb647d47835c34fa4db7e889c8a87c6d10
+
+===== New Command Thu Jul 07 2016 18:28:55 GMT-0400 (EDT) =====
+user Input: spotify-this-songbilly jean
+Song: Billy Jean
+Album: Ladies Night
+Artist(s): The ThrillersPreview URL: https://p.scdn.co/mp3-preview/43994c7b115c252e532b807d7bcf850a9067a1d1
+
+===== New Command Thu Jul 07 2016 18:29:06 GMT-0400 (EDT) =====
+user Input: spotify-this-songdirty diana
+Song: Dirty Diana - 2012 Remaster
+Album: Bad 25th Anniversary
+Artist(s): Michael JacksonPreview URL: https://p.scdn.co/mp3-preview/be0cb91b398fd29c9e0313cb99e6f9b9d668456f
+
+===== New Command Thu Jul 07 2016 18:29:14 GMT-0400 (EDT) =====
+user Input: my-tweets
+Tweet 1 Just posted a photo https://t.co/EN1e0XgeCI Just posted a photo https://t.co/EN1e0XgeCI Thu Jul 07 16:03:20 +0000 2016
+
+Tweet 2 Having a Spanish families #growinguphispanic https://t.co/RqWlqMa2Ue Having a Spanish families #growinguphispanic https://t.co/RqWlqMa2Ue Thu Jul 07 14:16:13 +0000 2016
+
+Tweet 3 Wade to the Bulls ummm interesting but I think they need more offense cuz it's just him and jimmy butler Wade to the Bulls ummm interesting but I think they need more offense cuz it's just him and jimmy butler Thu Jul 07 14:06:05 +0000 2016
+
+Tweet 4 The Only thing I do remember https://t.co/1sM430XA1H The Only thing I do remember https://t.co/1sM430XA1H Wed Jul 06 03:37:56 +0000 2016
+
+Tweet 5 RT @miakhalifa: Playing as the Warriors in 2k is now the equivalent of sleeping with your homies girl. Do it and you'll catch these hands. RT @miakhalifa: Playing as the Warriors in 2k is now the equivalent of sleeping with your homies girl. Do it and you'll catch these hands. Tue Jul 05 00:58:28 +0000 2016
+
+Tweet 6 My lakers  https://t.co/D1JmFejD2t My lakers  https://t.co/D1JmFejD2t Mon Jul 04 17:21:08 +0000 2016
+
+Tweet 7 Lol  https://t.co/y1M5JplHNg Lol  https://t.co/y1M5JplHNg Mon Jul 04 17:06:48 +0000 2016
+
+Tweet 8 Lmao  https://t.co/12ncfSNJFy Lmao  https://t.co/12ncfSNJFy Mon Jul 04 16:32:41 +0000 2016
+
+Tweet 9 RT @teamdaye: My Favorite Player Of All Time Retired At The Right Time. S/O To Kobe. Last Of A Dead Breed RT @teamdaye: My Favorite Player Of All Time Retired At The Right Time. S/O To Kobe. Last Of A Dead Breed Mon Jul 04 16:28:02 +0000 2016
+
+Tweet 10 Kevin Durant to the golden state really #NBAFreeAgency Kevin Durant to the golden state really #NBAFreeAgency Mon Jul 04 15:45:39 +0000 2016
+
+Tweet 11 RT @Babedipule: A lot of things that I thought were important to me back then are useless #honestyhour RT @Babedipule: A lot of things that I thought were important to me back then are useless #honestyhour Mon Jul 04 12:10:22 +0000 2016
+
+Tweet 12 RT @GLAMGiRL2K: I need sleep 😴😰😱 RT @GLAMGiRL2K: I need sleep 😴😰😱 Mon Jul 04 11:51:06 +0000 2016
+
+Tweet 13 It should be illegal to make someone work on any holiday who can I talk to about this It should be illegal to make someone work on any holiday who can I talk to about this Mon Jul 04 11:08:18 +0000 2016
+
+Tweet 14 I would be the one to buy a shirt and lose it the next day I would be the one to buy a shirt and lose it the next day Mon Jul 04 06:54:02 +0000 2016
+
+Tweet 15 You gotta risk it to get the biscuit You gotta risk it to get the biscuit Sun Jul 03 03:50:32 +0000 2016
+
+Tweet 16 Sitting in class #Rutgers wish I was at the beach Sitting in class #Rutgers wish I was at the beach Sat Jul 02 17:02:42 +0000 2016
+
+Tweet 17 RT @RedSox: #BigPapi passes Teddy Ballgame &amp; collects his 2000th hit with the #RedSox in one swing. https://t.co/L3YH6WFDHY https://t.co/k4… RT @RedSox: #BigPapi passes Teddy Ballgame &amp; collects his 2000th hit with the #RedSox in one swing. https://t.co/L3YH6WFDHY https://t.co/k4… Sat Jul 02 01:27:01 +0000 2016
+
+Tweet 18 RT @SportsNation: Eyeing that holiday weekend 🇺🇸👀 https://t.co/U6aC5XjNiM RT @SportsNation: Eyeing that holiday weekend 🇺🇸👀 https://t.co/U6aC5XjNiM Fri Jul 01 21:46:21 +0000 2016
+
+Tweet 19 @pdashpumper beyond crazy @pdashpumper beyond crazy Fri Jul 01 20:46:50 +0000 2016
+
+Tweet 20 @pdashpumper but we will see how the rest of the free agency goes @pdashpumper but we will see how the rest of the free agency goes Fri Jul 01 20:41:26 +0000 2016
+
+===== New Command Thu Jul 07 2016 18:29:51 GMT-0400 (EDT) =====
+user Input: movie-thiswe are titans
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+===== New Command Thu Jul 07 2016 18:30:01 GMT-0400 (EDT) =====
+user Input: movie-thiswearetitans
+Title: We Bought a Zoo
+Year: 2011
+IMDB Rating: 7.1
+Country: USA
+Language: English
+Plot: Set in Southern California, a father moves his young family to the countryside to renovate and re-open a struggling zoo.
+Actors: Matt Damon, Scarlett Johansson, Thomas Haden Church, Colin Ford
+Rotten Tomatoes Rating: 6.3
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/we_bought_a_zoo/
+
+===== New Command Thu Jul 07 2016 18:30:14 GMT-0400 (EDT) =====
+user Input: movie-thisrememberthetitans
+Title: Remember
+Year: 2015
+IMDB Rating: 7.3
+Country: Canada, Germany
+Language: English, German
+Plot: With the aid of a fellow Auschwitz survivor and a hand-written letter, an elderly man with dementia goes in search of the person responsible for the death of his family.
+Actors: Christopher Plummer, Kim Roberts, Amanda Smith, Martin Landau
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+
+===== New Command Thu Jul 07 2016 18:30:59 GMT-0400 (EDT) =====
+user Input: movie-thisbraveheart
+Title: Braveheart
+Year: 1995
+IMDB Rating: 8.4
+Country: USA
+Language: English, French, Latin, Scottish Gaelic
+Plot: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
+Actors: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
+Rotten Tomatoes Rating: 7.2
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/1065684-braveheart/
+
+===== New Command Thu Jul 07 2016 18:31:20 GMT-0400 (EDT) =====
+user Input: movie-thisscareface
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+===== New Command Thu Jul 07 2016 18:31:39 GMT-0400 (EDT) =====
+user Input: movie-thisthegoodfellas
+Title: The Shawshank Redemption
+Year: 1994
+IMDB Rating: 9.3
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Rotten Tomatoes Rating: 8.2
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/shawshank_redemption/
+
+===== New Command Thu Jul 07 2016 18:35:02 GMT-0400 (EDT) =====
+user Input: movie-thisscareface
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+===== New Command Thu Jul 07 2016 18:35:12 GMT-0400 (EDT) =====
+user Input: movie-thisscarface===== New Command Thu Jul 07 2016 18:36:15 GMT-0400 (EDT) =====
+user Input: do-what-it-say
+Unrecongnized Command...
+
+===== New Command Thu Jul 07 2016 18:36:26 GMT-0400 (EDT) =====
+user Input: do-what-it-says
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Artist(s): Backstreet BoysPreview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+
