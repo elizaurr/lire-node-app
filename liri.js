@@ -57,7 +57,7 @@ var spotifyInfo = function(userSong) {
 
   var song = "What's my age again";
 
-  if (userSong!null) {
+  if (userSong!= null) {
     song = userSong
   };
 
@@ -82,7 +82,7 @@ var spotifyInfo = function(userSong) {
     console.log("Artist(s): " + artistArray)
     console.log("Preview URL: " + data.tracks.items[0].preview_url)
 
-    var spotifyData = "Song: " + data.tracks.items[0].name + '\n',
+    var spotifyData = "Song: " + data.tracks.items[0].name + '\n' +
       "Album: " + data.tracks.items[0].album.name + '\n' + "Artist(s): " + artistArray + "Preview URL: " + data.tracks.items[0].preview_url + '\n';
     fs.appendFileSync('log.txt', '\n' + spotifyData + '\n', 'utf8', function(err) {
 
