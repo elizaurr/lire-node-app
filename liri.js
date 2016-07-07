@@ -6,12 +6,12 @@ var fs = require('fs');
 
 var time = new Date();
 
-fs.appendFileSync('random.txt', '===== New Command ' + time + ' =====' + '\n' + 'user Input: ', 'utf8', function(err) {
+fs.appendFileSync('log.txt', '===== New Command ' + time + ' =====' + '\n' + 'user Input: ', 'utf8', function(err) {
   if (err) throw err;
 })
 
 for (var i = 2; i < process.argv.length; i++) {
-  fs.appendFileSync('random.txt', process.argv[i] + '', 'utf8', function(err) {
+  fs.appendFileSync('log.txt', process.argv[i] + '', 'utf8', function(err) {
     if (err) throw err;
     console.log('the "data to append" was appended to file!');
 
@@ -40,12 +40,12 @@ var showTweets = function() {
 
         var twitterData = "Tweet " + (i + 1) + " " + tweets[i].text + " " + tweets[i].created_at;
 
-        fs.appendFileSync('random.txt', '\n' + twitterData + '\n', 'utf8', function(err) {
+        fs.appendFileSync('log.txt', '\n' + twitterData + '\n', 'utf8', function(err) {
           if (err) throw err;
           console.log('The "data to append" was appended to file!');
         })
       }
-      fs.appendFileSync('random.txt', '\n', 'utf8', function(err) {
+      fs.appendFileSync('log.txt', '\n', 'utf8', function(err) {
         if (err) throw err;
       })
     }
@@ -55,7 +55,7 @@ var showTweets = function() {
 
 var spotifyInfo = function(userSong) {
 
-  var song = "21 questions";
+  var song = "What's my age again";
 
   if (userSong!null) {
     song = userSong
@@ -84,7 +84,7 @@ var spotifyInfo = function(userSong) {
 
     var spotifyData = "Song: " + data.tracks.items[0].name + '\n',
       "Album: " + data.tracks.items[0].album.name + '\n' + "Artist(s): " + artistArray + "Preview URL: " + data.tracks.items[0].preview_url + '\n';
-    fs.appendFileSync('random.txt', '\n' + spotifyData + '\n', 'utf8', function(err) {
+    fs.appendFileSync('log.txt', '\n' + spotifyData + '\n', 'utf8', function(err) {
 
       if (err) throw err;
       console.log('The "data to append" was appended to file!');
