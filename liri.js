@@ -127,3 +127,33 @@ var movieInfo = function(userMovie) {
     }
   })
 }
+
+
+var doWhatItSays = function() {
+
+  fs.readFile('.random.txt', 'utf8', function(err, data){
+
+      if (err) throw err;
+
+
+      var spilt = data.spilt(",")
+
+
+      switch(spilt[0]) {
+        case 'my-tweets': 
+        showTweets();
+        break;
+      case 'spotify-this-song':
+        spotifyInfo(split[1]);
+        break;
+      case 'movie-this':
+        movieInfo(split[1]);
+        break;
+      case 'do-what-it-says':
+        doWhatItSays();
+        break;
+      default:
+        invalidCommand();
+      }
+  })
+}
