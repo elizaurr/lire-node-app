@@ -1,0 +1,72 @@
+===== New Command Wed Jul 06 2016 20:20:34 GMT-0400 (EDT) =====
+user Input: Twitter===== New Command Thu Jul 07 2016 15:27:54 GMT-0400 (EDT) =====
+user Input: ===== New Command Thu Jul 07 2016 15:33:41 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 15:36:43 GMT-0400 (EDT) =====
+user Input: spotify-this-songonedance===== New Command Thu Jul 07 2016 15:40:39 GMT-0400 (EDT) =====
+user Input: spotify-this-songone dance===== New Command Thu Jul 07 2016 15:42:25 GMT-0400 (EDT) =====
+user Input: spotify-this-songone dance===== New Command Thu Jul 07 2016 15:43:12 GMT-0400 (EDT) =====
+user Input: spotify-this-songone dance
+Song: One Dance
+Album: Views
+Artist(s): Drake,Wiz Kid,KylaPreview URL: https://p.scdn.co/mp3-preview/91cee70af91d01d6c358497a964a27add7a2fb69
+
+===== New Command Thu Jul 07 2016 15:44:26 GMT-0400 (EDT) =====
+user Input: movie-thispearl harbor
+Title: Pearl Harbor
+Year: 2001
+IMDB Rating: 6.0
+Country: USA
+Language: English, Japanese, French
+Plot: Pearl Harbor follows the story of two best friends, Rafe and Danny, and their love lives as they go off to join the war.
+Actors: Ben Affleck, Josh Hartnett, Kate Beckinsale, William Lee Scott
+Rotten Tomatoes Rating: 4.5
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/1108389-pearl_harbor/
+
+===== New Command Thu Jul 07 2016 15:44:57 GMT-0400 (EDT) =====
+user Input: do-what-it-says===== New Command Thu Jul 07 2016 15:45:49 GMT-0400 (EDT) =====
+user Input: do-what-it-says===== New Command Thu Jul 07 2016 15:48:14 GMT-0400 (EDT) =====
+user Input: do-what-it-says===== New Command Thu Jul 07 2016 15:49:02 GMT-0400 (EDT) =====
+user Input: do-what-it-says
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Artist(s): Backstreet BoysPreview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+
+===== New Command Thu Jul 07 2016 15:51:39 GMT-0400 (EDT) =====
+user Input: do-what-it-says
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Artist(s): Backstreet BoysPreview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+
+===== New Command Thu Jul 07 2016 15:52:06 GMT-0400 (EDT) =====
+user Input: my-tweetselizaurr1220===== New Command Thu Jul 07 2016 15:52:36 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 15:58:58 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 16:00:49 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 16:01:31 GMT-0400 (EDT) =====
+user Input: eli_rey1220
+Unrecongnized Command...
+
+===== New Command Thu Jul 07 2016 16:01:36 GMT-0400 (EDT) =====
+user Input: eli_rey1220
+Unrecongnized Command...
+
+===== New Command Thu Jul 07 2016 16:01:46 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 16:07:07 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 16:10:17 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 16:11:50 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 16:14:45 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 16:23:38 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 16:33:58 GMT-0400 (EDT) =====
+user Input: my-tweets===== New Command Thu Jul 07 2016 16:40:50 GMT-0400 (EDT) =====
+user Input: spotify-this-songi got the keys
+Song: If I Ain't Got You
+Album: The Diary Of Alicia Keys
+Artist(s): Alicia KeysPreview URL: https://p.scdn.co/mp3-preview/7c91c6dc291142a9a489eb9be0a261b489028933
+
+===== New Command Thu Jul 07 2016 16:41:15 GMT-0400 (EDT) =====
+user Input: spotify-this-songwithout me
+Song: Without Me
+Album: The Eminem Show (Explicit Version)
+Artist(s): EminemPreview URL: https://p.scdn.co/mp3-preview/c2b67567f040b2c924aed143ba21748b7ce092f6
+
+===== New Command Thu Jul 07 2016 16:44:01 GMT-0400 (EDT) =====
+user Input: my-tweets
