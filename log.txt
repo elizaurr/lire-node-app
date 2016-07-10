@@ -207,3 +207,41 @@ Song: I Want It That Way
 Album: The Hits--Chapter One
 Artist(s): Backstreet BoysPreview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
 
+===== New Command Fri Jul 08 2016 17:19:39 GMT-0400 (EDT) =====
+user Input: movie-thisstartrek
+Title: Star
+Year: 2001
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Plot: The Driver now carries an arrogant rock star who is visiting a major city (not Pittsburgh as earlier believed). Played by Madonna, this title character wants to get away from her bodyguards...
+Actors: Clive Owen, Michael Beattie, Toru Tanaka Jr., DTeflon
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the-hire-star/
+
+===== New Command Fri Jul 08 2016 17:20:07 GMT-0400 (EDT) =====
+user Input: movie-this star trek
+Title: Journey's End: The Saga of Star Trek - The Next Generation
+Year: 1994
+IMDB Rating: 6.7
+Country: USA
+Language: English
+Plot: Your destination: the 24th century. Your mission: to voyage where few have gone before--behind the scenes of Star Trek: The Next Generation! Join Jonathan Frakes, Next Generation's ...
+Actors: Jonathan Frakes, Patrick Stewart, Denise Crosby, LeVar Burton
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+
+===== New Command Sat Jul 09 2016 10:02:05 GMT-0400 (EDT) =====
+user Input: movie-thisstar wars
+Title: Star Wars
+Year: 1983
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Plot: N/A
+Actors: Harrison Ford, Alec Guinness, Mark Hamill, James Earl Jones
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+
+===== New Command Sat Jul 09 2016 10:02:24 GMT-0400 (EDT) =====
+user Input: movie-thisscarface
